@@ -35,4 +35,7 @@ This project analyzes retail sales data using PostgreSQL to understand sales per
 To turn retail sales data into meaningful business insights using SQL and develop practical data analytics skills.
 
 ## Author
-Harmeet Kaur
+
+**Harmeet Kaur**  
+B.Tech Electronics and Communication Engineering Student  
+Aspiring Data Analyst
